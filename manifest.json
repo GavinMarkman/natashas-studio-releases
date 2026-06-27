@@ -1,13 +1,11 @@
 {
   "version": "0.5.45",
-  "publishedAt": "2026-06-27T15:51:34.196Z",
+  "publishedAt": "2026-06-27T15:59:47.302Z",
   "zipFile": "natashas-studio-0.5.45.zip",
   "downloadUrl": "https://github.com/GavinMarkman/natashas-studio-releases/releases/download/v0.5.45/natashas-studio-0.5.45.zip",
-  "sha256": "dee82a23a2e63c4d22db39b8a5f64aa43a2cf19c540abbb064ecc366698176d6",
-  "size": 31250628,
-  "dmgFile": "natashas-studio-0.5.45-arm64.dmg",
+  "sha256": "3e80e608a7ce39c7c08aa9ccdafb6d4ce055c6d23c2f63bde5d7e2d38f49b6be",
+  "size": 26854202,
   "dmgUrl": "https://github.com/GavinMarkman/natashas-studio-releases/releases/download/v0.5.45/natashas-studio-0.5.45-arm64.dmg",
-  "dmgSha256": "b3da5bfdd87755db1907111db88241ffcedb384ac5c1290287fc7fe299793db5",
   "changelog": [
     "New listing wizard: choose Multi-product listing on Etsy — Studio creates drafts, then guides you to combine them in Printify (one listing for tee + hoodie + mug).",
     "Warns when listing titles must be unique or personalization blocks combining.",
