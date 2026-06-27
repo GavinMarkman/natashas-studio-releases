@@ -1,18 +1,22 @@
 {
-  "version": "0.5.46",
-  "publishedAt": "2026-06-27T16:31:57.885Z",
-  "zipFile": "natashas-studio-0.5.46.zip",
-  "downloadUrl": "https://github.com/GavinMarkman/natashas-studio-releases/releases/download/v0.5.46/natashas-studio-0.5.46.zip",
-  "sha256": "9347a816800504e8d7a18d075afa348106511689908b1fb9ac6ea55a2b56147e",
-  "size": 31276714,
-  "dmgFile": "natashas-studio-0.5.46-arm64.dmg",
-  "dmgUrl": "https://github.com/GavinMarkman/natashas-studio-releases/releases/download/v0.5.46/natashas-studio-0.5.46-arm64.dmg",
-  "dmgSha256": "e4fb5b2c702090fd16bb622455c2ecc8928c138a79a6045945f000e934e4179c",
+  "version": "0.5.47",
+  "publishedAt": "2026-06-27T16:56:10.072Z",
+  "zipFile": "natashas-studio-0.5.47.zip",
+  "downloadUrl": "https://github.com/GavinMarkman/natashas-studio-releases/releases/download/v0.5.47/natashas-studio-0.5.47.zip",
+  "sha256": "aea555b9cb966a6a3dc1848862df84e79e4e13241f4503c565dd867bf275daff",
+  "size": 31281082,
+  "dmgFile": "natashas-studio-0.5.47-arm64.dmg",
+  "dmgUrl": "https://github.com/GavinMarkman/natashas-studio-releases/releases/download/v0.5.47/natashas-studio-0.5.47-arm64.dmg",
+  "dmgSha256": "3103e8ba8251a1072f7420457f6b440a47e9a071eb09c6e6f5244e5eb9d42b8e",
   "changelog": [
-    "Test release — confirms GitHub auto-update works end-to-end."
+    "The app checks GitHub for improvements every time you open it — downloads and restarts automatically.",
+    "Fixes the Supabase update error — switches to GitHub in the background.",
+    "You should never need to open Settings → Updates again."
   ],
   "highlights": [
-    "Test release — confirms GitHub auto-update works end-to-end."
+    "The app checks GitHub for improvements every time you open it — downloads and restarts automatically.",
+    "Fixes the Supabase update error — switches to GitHub in the background.",
+    "You should never need to open Settings → Updates again."
   ],
-  "notes": "Test release — confirms GitHub auto-update works end-to-end."
+  "notes": "The app checks GitHub for improvements every time you open it — downloads and restarts automatically."
 }
