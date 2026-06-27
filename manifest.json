@@ -1,0 +1,25 @@
+{
+  "version": "0.5.44",
+  "publishedAt": "2026-06-25T16:48:21.311Z",
+  "zipFile": "natashas-studio-0.5.44.zip",
+  "downloadUrl": "https://github.com/GavinMarkman/natashas-studio-releases/releases/download/v0.5.44/natashas-studio-0.5.44.zip",
+  "sha256": "40b774fca911f8eab025283b0c6be746596ae277f1a0f62bc15fc80cb00d0556",
+  "size": 31226196,
+  "dmgFile": "natashas-studio-0.5.44-arm64.dmg",
+  "dmgUrl": "https://github.com/GavinMarkman/natashas-studio-releases/releases/download/v0.5.44/natashas-studio-0.5.44-arm64.dmg",
+  "dmgSha256": "936f4aa026f3c9f43376a346b0fe6a043c7b068a4ff28a8b75969d750799bb78",
+  "changelog": [
+    "Other orders now load from Printify — tries every feed URL until orders appear, auto-opens Printify to capture the feed if needed.",
+    "Fixes empty Other orders tab when Printify shows orders in the browser.",
+    "Stops creating duplicate Studio Placement preview products — reuses one live preview and sweeps orphans daily.",
+    "Reinstall once for the desktop shell fix (capture + API headers)."
+  ],
+  "highlights": [
+    "Other orders now load from Printify — tries every feed URL until orders appear, auto-opens Printify to capture the feed if needed.",
+    "Fixes empty Other orders tab when Printify shows orders in the browser.",
+    "Stops creating duplicate Studio Placement preview products — reuses one live preview and sweeps orphans daily.",
+    "Reinstall once for the desktop shell fix (capture + API headers)."
+  ],
+  "notes": "Other orders now load from Printify — tries every feed URL until orders appear, auto-opens Printify to capture the feed if needed.",
+  "zipHost": "github"
+}
